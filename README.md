@@ -45,3 +45,6 @@ Most people prefer to consume beer with about 6% alcohol, a light-colored beer w
 
 
 ![Image of boil](https://github.com/biepoonpoon/datavizproject/blob/main/dashboard%20img/conclude.png)
+
+
+You can see interactive dashboard from this link : [Tableau Public/Pansiri](https://public.tableau.com/views/BrewersFriendBeerRecipes/BrewersBeer?:language=en&:display_count=y&:origin=viz_share_link)
